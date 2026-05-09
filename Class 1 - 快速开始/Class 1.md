@@ -10,3 +10,9 @@
 请通过此链接下载CLon，或拷贝连接在浏览器打开：https://www.jetbrains.com/clion/
 
 安装好之后，我们就可以开始下一步了！
+
+**请注意：在开始Coding之前，请确保你使用的是英文输入法**
+
+> 参考资料及链接（排名不分先后，如有侵权，请联系作者删除）：\
+> OI Wiki - https://oi-wiki.org/ \
+> 菜鸟教程 - https://www.runoob.com/ 
